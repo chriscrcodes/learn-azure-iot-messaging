@@ -11,7 +11,7 @@ This course is divided into 4 parts:
 
 - install .NET Core SDK (https://dotnet.microsoft.com/download)
 - install Git client (https://git-scm.com/downloads)
-- retrieve course materials: `git clone https://github.com/christophecremon/azure-iot.git`
+- retrieve course materials: `git clone https://github.com/christophecremon/learn-azure-iot-messaging.git`
 
 ## Register a device in an IoT Hub
 
